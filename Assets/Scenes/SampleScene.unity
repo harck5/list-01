@@ -313,6 +313,15 @@ GameObject:
   - component: {fileID: 1544162881}
   - component: {fileID: 1544162880}
   - component: {fileID: 1544162879}
+  - component: {fileID: 1544162892}
+  - component: {fileID: 1544162891}
+  - component: {fileID: 1544162890}
+  - component: {fileID: 1544162889}
+  - component: {fileID: 1544162888}
+  - component: {fileID: 1544162887}
+  - component: {fileID: 1544162886}
+  - component: {fileID: 1544162885}
+  - component: {fileID: 1544162884}
   - component: {fileID: 1544162883}
   m_Layer: 0
   m_Name: Sphere
@@ -411,3 +420,130 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96a1a61f3ec1b8b40b6830db4fc57935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  num: 2
+--- !u!114 &1544162884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544162878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7e4ec5f6559163499fd7b4b462a5dea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dulces: 0
+  personas: 0
+--- !u!114 &1544162885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544162878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c62cb0cf9868515439654aaea4ec9dc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mes: 
+--- !u!114 &1544162886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544162878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb9ad11184c4a304da85d0fb834703b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  letra: 
+--- !u!114 &1544162887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544162878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4295b400cdd34549a173c66b14301d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  day: 0
+--- !u!114 &1544162888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544162878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44201644a1b00504586cc29b42dbe2eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  x: 0
+  y: 0
+  isGreater: 0
+--- !u!114 &1544162889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544162878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc04e72e6e196d74cabf659a335c1154, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentYear: 0
+  birthYear: 0
+  age: 0
+--- !u!114 &1544162890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544162878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2655158bbf685e34aa378a6d2388b67b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  age: 0
+  name: 
+--- !u!114 &1544162891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544162878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a42d7f9747f18439ed604bf2d1f5a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: 
+  city: 
+--- !u!114 &1544162892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544162878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5910fa5ab71403d43bae554f3d02ee1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  num1: 0
+  num2: 0
+  num3: 0

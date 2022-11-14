@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Execise10 : MonoBehaviour
 {
-    private int num = 2;
+    public int num = 2;
     void Start()
     {
         Debug.Log(message: $"{num} X  {1} = {num * 1}");
